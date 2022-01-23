@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1H4m5sw6vSml949v8CYM75gIWEu6RJhM4wheB+2PkzsOndl6YJel8zRzZk3rZZYZo8RQCIXUO3CnbUhnToVtCA==",
+  "dgSpecHash": "0denOX3EvPpJyOQMCkxzXfYqXTY0nwq9OhSjJFC9r3INHdMRs9XiPS0haKyYvxP1liXcqstnCfEfYzeMLNfPPg==",
   "success": true,
-  "projectFilePath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj",
+  "projectFilePath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vadim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vadim\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.1\\microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",

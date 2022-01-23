@@ -17,11 +17,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj",
+      "projectUniqueName": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj",
       "projectName": "PersonalityTest.Domain",
-      "projectPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj",
+      "projectPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj",
       "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\obj\\",
+      "outputPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sTZzIwdF6ka73zcBmDaw3gWGI0fHY2SQtHjuvnM60nI8g7fcr3u+cZdFqf4arLWmRBbOUoMKYHkJczayPZgmQQ==",
+  "dgSpecHash": "8Zdq0SEnoFWd9Q8Zq27/TV4qJ7gblE2PDAXcoZVwiZ1BZVRhtu2RlO9tQnmWc0V0Mz5ysb5aQzh8zsXmV36dwA==",
   "success": true,
-  "projectFilePath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj",
+  "projectFilePath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vadim\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\vadim\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

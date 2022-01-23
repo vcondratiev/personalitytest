@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj": {}
+    "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj": {
+    "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj",
+        "projectUniqueName": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj",
         "projectName": "PersonalityTest.Api",
-        "projectPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj",
+        "projectPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Api\\PersonalityTest.Api.csproj",
         "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Api\\obj\\",
+        "outputPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -40,8 +40,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj": {
-                "projectPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj"
+              "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj": {
+                "projectPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj"
               }
             }
           }
@@ -109,14 +109,14 @@
         }
       }
     },
-    "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj": {
+    "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj",
+        "projectUniqueName": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj",
         "projectName": "PersonalityTest.Domain",
-        "projectPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj",
+        "projectPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj",
         "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\obj\\",
+        "outputPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -175,14 +175,14 @@
         }
       }
     },
-    "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj": {
+    "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj",
         "projectName": "PersonalityTest.Infrastructure",
-        "projectPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj",
+        "projectPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Infrastructure\\PersonalityTest.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Infrastructure\\obj\\",
+        "outputPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -211,8 +211,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj": {
-                "projectPath": "C:\\Work\\Learning\\Teamway\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj"
+              "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj": {
+                "projectPath": "C:\\Work\\Learning\\Teamway\\Personality\\PersonalityTest\\PersonalityTest.Domain\\PersonalityTest.Domain.csproj"
               }
             }
           }
