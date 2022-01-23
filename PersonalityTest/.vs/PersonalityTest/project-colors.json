@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a7ed961-a76a-438b-b201-966bcfd7bdf3": {
+      "ProjectGuid": "7a7ed961-a76a-438b-b201-966bcfd7bdf3",
+      "DisplayName": "PersonalityTest.Api",
+      "ColorIndex": 0
+    },
+    "e0fdd0b9-f347-40b1-8b40-b2d0c412fede": {
+      "ProjectGuid": "e0fdd0b9-f347-40b1-8b40-b2d0c412fede",
+      "DisplayName": "PersonalityTest.Domain",
+      "ColorIndex": 1
+    },
+    "80eae3a0-5ffb-4c8a-8670-60c2f76eb243": {
+      "ProjectGuid": "80eae3a0-5ffb-4c8a-8670-60c2f76eb243",
+      "DisplayName": "PersonalityTest.Infrastructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

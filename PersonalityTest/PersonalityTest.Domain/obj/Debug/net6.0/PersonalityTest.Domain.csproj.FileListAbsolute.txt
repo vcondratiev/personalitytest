@@ -1,0 +1,12 @@
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\bin\Debug\net6.0\PersonalityTest.Domain.deps.json
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\bin\Debug\net6.0\PersonalityTest.Domain.dll
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\bin\Debug\net6.0\ref\PersonalityTest.Domain.dll
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\bin\Debug\net6.0\PersonalityTest.Domain.pdb
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\obj\Debug\net6.0\PersonalityTest.Domain.csproj.AssemblyReference.cache
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\obj\Debug\net6.0\PersonalityTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\obj\Debug\net6.0\PersonalityTest.Domain.AssemblyInfoInputs.cache
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\obj\Debug\net6.0\PersonalityTest.Domain.AssemblyInfo.cs
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\obj\Debug\net6.0\PersonalityTest.Domain.csproj.CoreCompileInputs.cache
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\obj\Debug\net6.0\PersonalityTest.Domain.dll
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\obj\Debug\net6.0\ref\PersonalityTest.Domain.dll
+C:\Work\Learning\Teamway\PersonalityTest\PersonalityTest.Domain\obj\Debug\net6.0\PersonalityTest.Domain.pdb
