@@ -1,0 +1,14 @@
+.content-wrapper {
+  width: 100%;
+  height: calc(100vh - 70px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .content-container {
+    //max-width: 900px;
+    width: 100%;
+
+    height: 100%;
+  }
+}

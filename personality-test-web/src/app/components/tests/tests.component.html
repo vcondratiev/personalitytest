@@ -1,0 +1,16 @@
+<div class="page">
+  <div class="page-header">
+    <h3>Available test to take</h3>
+  </div>
+  <div class="tests-container">
+    <ul class="tests-list">
+      <li *ngFor="let set of questionSets$ | async">
+        <h4 class="test-name">{{ set.name }}</h4>
+        <div class="test-description">{{ set.description }}</div>
+        <button class="p-btn p-btn-filled" (click)="takeTest(set.id)">
+          Take test
+        </button>
+      </li>
+    </ul>
+  </div>
+</div>

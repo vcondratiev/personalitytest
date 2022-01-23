@@ -1,0 +1,54 @@
+.take-test-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+.take-test-question {
+  border: 1px solid var(--border-color);
+  padding: 20px;
+
+  .take-test-progress {
+    mat-progress-bar {
+      margin-top: 10px;
+    }
+
+    .take-test-question-number {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+
+      .active-question-number {
+        flex: 1;
+      }
+    }
+  }
+
+  .test-question {
+    font-size: 18px;
+    font-weight: 600;
+    font-style: italic;
+  }
+
+  .test-questions-options {
+    margin-top: 10px;
+
+    .test-option-item {
+      padding: 5px 0px 5px 20px;
+
+      label {
+        margin-left: 10px;
+        &:hover {
+          color: var(--primary);
+          cursor: pointer;
+        }
+      }
+    }
+
+    .test-question-buttons {
+      margin-top: 10px;
+      display: flex;
+    }
+  }
+}

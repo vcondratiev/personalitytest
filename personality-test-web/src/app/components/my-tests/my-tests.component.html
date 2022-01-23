@@ -1,0 +1,17 @@
+<div class="page">
+  <div class="page-header">
+    <h3>My taken tests</h3>
+  </div>
+  <div class="tests-container">
+    <ul class="tests-list">
+      <li *ngFor="let test of takenTests$ | async">
+        <h4 class="test-name">{{ test.name }}</h4>
+        <span class="test-identifier">{{ test.identifier }}</span>
+        <div class="test-description">{{ test.description }}</div>
+        <div class="test-results">
+          {{ test.results.result }}
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>

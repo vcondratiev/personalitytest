@@ -1,0 +1,73 @@
+.main-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;;
+}
+.main-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+  padding: 20px;
+
+  .main-title {
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--primary);
+  }
+
+  .main-description {
+    font-size: 18px;
+    color: var(--medium-grey);
+
+    p {
+      text-align: center;
+      max-width: 700px;
+    }
+  }
+}
+
+.main-image {
+  flex: 1;
+  background: url('../../../assets/images/landing.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .test-description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 350px;
+    text-align: center;
+    margin-top: 20px;
+
+    .test-description-text {
+      color: var(--light-grey-3);
+      font-weight: 600;
+      z-index: 1;
+    }
+
+    .text-description-color {
+      max-width: 380px;
+      position: absolute;
+      width: 100%;
+      height: 80px;
+      background-color: var(--light-grey-1);
+      opacity: 0.4;
+      border-radius: 15px;
+    }
+  }
+}
+
+.take-button {
+  font-size: 20px;
+  font-weight: 600;
+  min-width: 250px;
+}

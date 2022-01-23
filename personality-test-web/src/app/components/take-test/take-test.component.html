@@ -1,0 +1,62 @@
+<div class="take-test-container" *ngIf="test">
+  <form [formGroup]="testForm" (ngSubmit)="submit($event)">
+
+    <div class="take-test-questions" formArrayName="questions">
+      <!-- <div class="take-test-question" *ngFor="let question of test.questions; let questionIndex=index">
+        <div [formGroupName]="questionIndex">
+          <div class="test-question">
+            {{ question.title }}
+          </div>
+          <div class="test-questions-options">
+            <div formArrayName="options">
+              <div *ngFor="let option of question.questionOptions">
+                <input type="radio" [id]="option.id" [name]="question.id" [value]="option.value">
+                <label [for]="option.id">{{ option.text }}</label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> -->
+
+      <div class="take-test-question" *ngIf="activeQuestionGroup">
+        <div [formGroup]="activeQuestionGroup">
+          <div class="take-test-progress">
+            Progress
+            <mat-progress-bar mode="determinate" [value]="(activeQuestionIndex+1)*10"></mat-progress-bar>
+            <div class="take-test-question-number">
+              <div class="active-question-number">
+                <p>Question {{ activeQuestionIndex+1 }} / {{ test.questions.length }}</p>
+              </div>
+              <div class="active-question-percentage">
+                <p>{{ (100 * (activeQuestionIndex+1)) / test.questions.length }} %</p>
+              </div>
+
+            </div>
+          </div>
+          <div class="test-question">
+            {{ activeQuestionGroup.controls.name.value }}
+          </div>
+          <div formArrayName="options" class="test-questions-options">
+            <div class="test-option-item" *ngFor="let option of options; let i=index" [formGroupName]="i">
+              <input [formControl]="getSelectedOption()" type="radio" [id]="option.controls.id.value" [name]="activeQuestionGroup.controls.id.value" [value]="option.controls.value.value">
+              <label [for]="option.controls.id.value">{{ option.controls.name.value }}</label>
+            </div>
+            <div class="test-question-buttons">
+              <div style="flex: 1">
+                <button class="p-btn p-btn-bordered" [disabled]="activeQuestionIndex == 0" (click)="previousQuestion()">
+                  Back
+                </button>
+              </div>
+              <button *ngIf="activeQuestionIndex < test.questions.length-1" class="p-btn p-btn-filled" [disabled]="(activeQuestionIndex == test.questions.length - 1) || !activeQuestionGroup.valid" (click)="nextQuestion()">
+                Next
+              </button>
+              <button *ngIf="activeQuestionIndex == test.questions.length-1" class="p-btn p-btn-filled" [disabled]="!activeQuestionGroup.valid" (click)="finish()">
+                  Finish
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
